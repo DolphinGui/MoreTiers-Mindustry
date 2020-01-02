@@ -1,5 +1,5 @@
-# ExampleMod
-An example of a simple mod for Mindustry.
+# MoreTiers
+Exactly as it sounds like, more tiers for various industry blocks suck as graphite
 
 ## Importing
 
@@ -7,7 +7,7 @@ Simply download this repository as a zip, then import it through the `Mods` dial
 
 ## Contributing
 
-Feel free to submit more example content to this repository. For example sprites, I recommend re-coloring existing blocks and using the existing Mindustry palette.
+I won't regularly check on push requests, so don't expect miracles. I might grant a push request if it's a bug-fix/or makes the mod more interesting.
 
 ## Want more mods?
 
