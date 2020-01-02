@@ -7,7 +7,7 @@ Simply download this repository as a zip, then import it through the `Mods` dial
 
 ## Contributing
 
-I won't regularly check on push requests, so don't expect miracles. I might grant a push request if it's a bug-fix/or makes the mod more interesting.
+I won't regularly check on pullrequests, so don't expect miracles. I might grant a push request if it's a bug-fix/or makes the mod more interesting.
 
 ## Want more mods?
 
