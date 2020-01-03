@@ -1,0 +1,6 @@
+name: Pressurized Carbon
+description: Like melted diamond
+temperature: 0
+viscosity: 0.1
+effect: freezing
+color: 323232
