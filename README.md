@@ -1,5 +1,5 @@
 # MoreTiers
-Exactly as it sounds like, more tiers for various industry blocks suck as graphite
+Exactly as it sounds like, more tiers for various production blocks. Also more interactions with liquids.
 
 ## Importing
 
