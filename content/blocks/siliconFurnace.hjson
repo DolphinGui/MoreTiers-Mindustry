@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Silicon Furnace
+description: Creates silicon with a higher efficiency
+liquidCapacity: 100
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      sand/2
+    ]
+  }
+  liquid: {
+    liquid: oil
+    amount: 5
+  }
+}
+requirements: [
+  lead/50
+  copper/40
+  graphite/60
+]
+category: crafting
+research: coalLiquidator
+hasShadow: false
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: graphite/3
